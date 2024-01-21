@@ -1,0 +1,59 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "22pages",
+    "description": "",
+    "home_page_url": "https://a11fath3r.github.io/22pages",
+    "feed_url": "https://a11fath3r.github.io/22pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "A11father"
+    },
+    "items": [
+        {
+            "id": "https://a11fath3r.github.io/22pages/daniel-33.html",
+            "url": "https://a11fath3r.github.io/22pages/daniel-33.html",
+            "title": "Daniel 33",
+            "image": "https://a11fath3r.github.io/22pages/media/posts/3/d33_colour.jpg",
+            "author": {
+                "name": "A11father"
+            },
+            "tags": [
+                   "inker",
+                   "colour"
+            ],
+            "date_published": "2024-01-20T16:49:45-08:00",
+            "date_modified": "2024-01-20T16:49:45-08:00"
+        },
+        {
+            "id": "https://a11fath3r.github.io/22pages/tatiana-zg.html",
+            "url": "https://a11fath3r.github.io/22pages/tatiana-zg.html",
+            "title": "Tatiana Zg",
+            "image": "https://a11fath3r.github.io/22pages/media/posts/2/tz_write.jpg",
+            "author": {
+                "name": "A11father"
+            },
+            "tags": [
+                   "writer"
+            ],
+            "date_published": "2024-01-20T16:47:08-08:00",
+            "date_modified": "2024-01-20T16:47:08-08:00"
+        },
+        {
+            "id": "https://a11fath3r.github.io/22pages/marcus-aurelius.html",
+            "url": "https://a11fath3r.github.io/22pages/marcus-aurelius.html",
+            "title": "Marcus Aurelius",
+            "content_html": "<ul>\n<li>add availability tag</li>\n<li>add rate per page</li>\n<li>add contact ability</li>\n<li>add captcha<br><br></li>\n<li>include verified?</li>\n<li>include a blurb?</li>\n<li>include link to socials</li>\n<li>include link to external portfolio</li>\n</ul>",
+            "image": "https://a11fath3r.github.io/22pages/media/posts/1/ma_art.png",
+            "author": {
+                "name": "A11father"
+            },
+            "tags": [
+                   "colour",
+                   "b&amp;w",
+                   "artist"
+            ],
+            "date_published": "2024-01-20T16:02:00-08:00",
+            "date_modified": "2024-01-20T17:34:27-08:00"
+        }
+    ]
+}

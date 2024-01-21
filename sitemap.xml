@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://a11fath3r.github.io/22pages/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://a11fath3r.github.io/22pages/</loc>
+</url>
+<url>
+<loc>https://a11fath3r.github.io/22pages/daniel-33.html</loc>
+<lastmod>2024-01-20T16:49:45-08:00</lastmod>
+<image:image>
+<image:loc>https://a11fath3r.github.io/22pages/media/posts/3/d33_colour.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://a11fath3r.github.io/22pages/marcus-aurelius.html</loc>
+<lastmod>2024-01-20T17:34:27-08:00</lastmod>
+<image:image>
+<image:loc>https://a11fath3r.github.io/22pages/media/posts/1/ma_art.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://a11fath3r.github.io/22pages/tatiana-zg.html</loc>
+<lastmod>2024-01-20T16:47:08-08:00</lastmod>
+<image:image>
+<image:loc>https://a11fath3r.github.io/22pages/media/posts/2/tz_write.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

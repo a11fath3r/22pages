@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>22pages</title>
+    <link href="https://a11fath3r.github.io/22pages/feed.xml" rel="self" />
+    <link href="https://a11fath3r.github.io/22pages" />
+    <updated>2024-01-20T17:34:27-08:00</updated>
+    <author>
+        <name>A11father</name>
+    </author>
+    <id>https://a11fath3r.github.io/22pages</id>
+
+    <entry>
+        <title>Daniel 33</title>
+        <author>
+            <name>A11father</name>
+        </author>
+        <link href="https://a11fath3r.github.io/22pages/daniel-33.html"/>
+        <id>https://a11fath3r.github.io/22pages/daniel-33.html</id>
+        <media:content url="https://a11fath3r.github.io/22pages/media/posts/3/d33_colour.jpg" medium="image" />
+            <category term="inker"/>
+            <category term="colour"/>
+
+        <updated>2024-01-20T16:49:45-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Tatiana Zg</title>
+        <author>
+            <name>A11father</name>
+        </author>
+        <link href="https://a11fath3r.github.io/22pages/tatiana-zg.html"/>
+        <id>https://a11fath3r.github.io/22pages/tatiana-zg.html</id>
+        <media:content url="https://a11fath3r.github.io/22pages/media/posts/2/tz_write.jpg" medium="image" />
+            <category term="writer"/>
+
+        <updated>2024-01-20T16:47:08-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Marcus Aurelius</title>
+        <author>
+            <name>A11father</name>
+        </author>
+        <link href="https://a11fath3r.github.io/22pages/marcus-aurelius.html"/>
+        <id>https://a11fath3r.github.io/22pages/marcus-aurelius.html</id>
+        <media:content url="https://a11fath3r.github.io/22pages/media/posts/1/ma_art.png" medium="image" />
+            <category term="colour"/>
+            <category term="b&amp;w"/>
+            <category term="artist"/>
+
+        <updated>2024-01-20T17:34:27-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://a11fath3r.github.io/22pages/media/posts/1/ma_art.png" class="type:primaryImage" alt="" /></p>
+                <ul>
+<li>add availability tag</li>
+<li>add rate per page</li>
+<li>add contact ability</li>
+<li>add captcha<br><br></li>
+<li>include verified?</li>
+<li>include a blurb?</li>
+<li>include link to socials</li>
+<li>include link to external portfolio</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
