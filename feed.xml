@@ -3,12 +3,30 @@
     <title>22pages</title>
     <link href="https://a11fath3r.github.io/22pages/feed.xml" rel="self" />
     <link href="https://a11fath3r.github.io/22pages" />
-    <updated>2024-01-20T17:34:27-08:00</updated>
+    <updated>2024-01-22T13:14:26-08:00</updated>
     <author>
         <name>A11father</name>
     </author>
     <id>https://a11fath3r.github.io/22pages</id>
 
+    <entry>
+        <title>feedback</title>
+        <author>
+            <name>A11father</name>
+        </author>
+        <link href="https://a11fath3r.github.io/22pages/feedback.html"/>
+        <id>https://a11fath3r.github.io/22pages/feedback.html</id>
+
+        <updated>2024-01-22T13:03:56-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>form code</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Daniel 33</title>
         <author>
@@ -45,25 +63,50 @@
         </author>
         <link href="https://a11fath3r.github.io/22pages/marcus-aurelius.html"/>
         <id>https://a11fath3r.github.io/22pages/marcus-aurelius.html</id>
-        <media:content url="https://a11fath3r.github.io/22pages/media/posts/1/ma_art.png" medium="image" />
             <category term="colour"/>
             <category term="b&amp;w"/>
             <category term="artist"/>
 
-        <updated>2024-01-20T17:34:27-08:00</updated>
+        <updated>2024-01-22T13:14:26-08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://a11fath3r.github.io/22pages/media/posts/1/ma_art.png" class="type:primaryImage" alt="" /></p>
-                <ul>
-<li>add availability tag</li>
-<li>add rate per page</li>
-<li>add contact ability</li>
-<li>add captcha<br><br></li>
+                <p><em>something something about artist blurb</em></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://a11fath3r.github.io/22pages/media/posts/1/gallery/ma_art.png" data-size="280x224"><img loading="lazy" src="https://a11fath3r.github.io/22pages/media/posts/1/gallery/ma_art-thumbnail.png" alt="" width="280" height="224"></a></figure>
+<figure class="gallery__item"><a href="https://a11fath3r.github.io/22pages/media/posts/1/gallery/d33_colour.jpg" data-size="1852x1884"><img loading="lazy" src="https://a11fath3r.github.io/22pages/media/posts/1/gallery/d33_colour-thumbnail.jpg" alt="" width="768" height="781"></a></figure>
+<figure class="gallery__item"><a href="https://a11fath3r.github.io/22pages/media/posts/1/gallery/22art.jpg" data-size="600x338"><img loading="lazy" src="https://a11fath3r.github.io/22pages/media/posts/1/gallery/22art-thumbnail.jpg" alt="" width="600" height="338"></a></figure>
+<figure class="gallery__item"><a href="https://a11fath3r.github.io/22pages/media/posts/1/gallery/22colour.png" data-size="800x800"><img loading="lazy" src="https://a11fath3r.github.io/22pages/media/posts/1/gallery/22colour-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://a11fath3r.github.io/22pages/media/posts/1/gallery/22joker.jpg" data-size="1052x1600"><img loading="lazy" src="https://a11fath3r.github.io/22pages/media/posts/1/gallery/22joker-thumbnail.jpg" alt="" width="768" height="1168"></a></figure>
+</div></div>
+<table style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); width: 100.035%;" border="1">
+<tbody>
+<tr>
+<td class="align-left" style="width: 50.054%;"><strong>accepting work</strong></td>
+<td class="align-right" style="width: 49.9114%;"><strong>YES</strong></td>
+</tr>
+<tr>
+<td class="align-left" style="width: 50.054%;"><strong>rate per page</strong></td>
+<td class="align-right" style="width: 49.9114%;"><strong>$50 US</strong></td>
+</tr>
+<tr>
+<td style="width: 50.054%;"><strong>portfolio</strong></td>
+<td class="align-right" style="width: 49.9114%;">external site name hyperlinked</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td class="align-center" style="width: 50.0713%;">social button</td>
+<td class="align-center" style="width: 49.9287%;">social button</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>add contact ability + captcha</li>
 <li>include verified?</li>
-<li>include a blurb?</li>
-<li>include link to socials</li>
-<li>include link to external portfolio</li>
+<li>country?</li>
 </ul>
             ]]>
         </content>
