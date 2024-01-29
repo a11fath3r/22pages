@@ -12,15 +12,15 @@
         {
             "id": "https://a11fath3r.github.io/22pages/feedback.html",
             "url": "https://a11fath3r.github.io/22pages/feedback.html",
-            "title": "feedback",
-            "content_html": "<ul>\n<li>form code</li>\n</ul>",
+            "title": "directory addition request",
+            "content_html": "<form action=\"https://getform.io/f/8f04a49a-d2b3-49d6-8a77-bdf344e76853\" method=\"POST\">\n<p class=\"align-left\"><input type=\"text\"> name</p>\n<p><input name=\"email\" type=\"email\"> contact email</p>\n<p><input name=\"about\" type=\"text\"> about you</p>\n<p><input name=\"country\" type=\"text\"> country</p>\n<p><input name=\"portfolio\" type=\"text\"> link to portfolio</p>\n<p><input name=\"art1\" type=\"text\"> link 1 to art to showcase on 22pages</p>\n<p><input name=\"art2\" type=\"text\"> link 2 to art to showcase on 22pages</p>\n<p><input name=\"art3\" type=\"text\"> link 3 to art to showcase on 22pages</p>\n<p><input name=\"art4\" type=\"text\"> link 4 to art to showcase on 22pages</p>\n<p><input name=\"art5\" type=\"text\"> link 5 to art to showcase on 22pages</p>\n<p><input name=\"rates\" type=\"text\"> rate (include per type, eg: colour, b&amp;w, page, etc.)</p>\n<p><input name=\"twitter\" type=\"text\"> twitter / x</p>\n<p><input name=\"instagram\" type=\"text\"> instagram</p>\n<p><button type=\"submit\">Send</button></p>\n</form>",
             "author": {
                 "name": "A11father"
             },
             "tags": [
             ],
             "date_published": "2024-01-22T13:03:56-08:00",
-            "date_modified": "2024-01-22T13:03:56-08:00"
+            "date_modified": "2024-01-28T19:05:22-08:00"
         },
         {
             "id": "https://a11fath3r.github.io/22pages/daniel-33.html",

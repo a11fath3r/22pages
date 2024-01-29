@@ -3,27 +3,40 @@
     <title>22pages</title>
     <link href="https://a11fath3r.github.io/22pages/feed.xml" rel="self" />
     <link href="https://a11fath3r.github.io/22pages" />
-    <updated>2024-01-22T13:14:26-08:00</updated>
+    <updated>2024-01-28T19:05:22-08:00</updated>
     <author>
         <name>A11father</name>
     </author>
     <id>https://a11fath3r.github.io/22pages</id>
 
     <entry>
-        <title>feedback</title>
+        <title>directory addition request</title>
         <author>
             <name>A11father</name>
         </author>
         <link href="https://a11fath3r.github.io/22pages/feedback.html"/>
         <id>https://a11fath3r.github.io/22pages/feedback.html</id>
 
-        <updated>2024-01-22T13:03:56-08:00</updated>
+        <updated>2024-01-28T19:05:22-08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <ul>
-<li>form code</li>
-</ul>
+                <form action="https://getform.io/f/8f04a49a-d2b3-49d6-8a77-bdf344e76853" method="POST">
+<p class="align-left"><input type="text"> name</p>
+<p><input name="email" type="email"> contact email</p>
+<p><input name="about" type="text"> about you</p>
+<p><input name="country" type="text"> country</p>
+<p><input name="portfolio" type="text"> link to portfolio</p>
+<p><input name="art1" type="text"> link 1 to art to showcase on 22pages</p>
+<p><input name="art2" type="text"> link 2 to art to showcase on 22pages</p>
+<p><input name="art3" type="text"> link 3 to art to showcase on 22pages</p>
+<p><input name="art4" type="text"> link 4 to art to showcase on 22pages</p>
+<p><input name="art5" type="text"> link 5 to art to showcase on 22pages</p>
+<p><input name="rates" type="text"> rate (include per type, eg: colour, b&amp;w, page, etc.)</p>
+<p><input name="twitter" type="text"> twitter / x</p>
+<p><input name="instagram" type="text"> instagram</p>
+<p><button type="submit">Send</button></p>
+</form>
             ]]>
         </content>
     </entry>
