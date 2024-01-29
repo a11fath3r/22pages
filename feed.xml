@@ -3,26 +3,27 @@
     <title>22pages</title>
     <link href="https://a11fath3r.github.io/22pages/feed.xml" rel="self" />
     <link href="https://a11fath3r.github.io/22pages" />
-    <updated>2024-01-28T19:05:22-08:00</updated>
+    <updated>2024-01-29T14:31:52-08:00</updated>
     <author>
         <name>A11father</name>
     </author>
     <id>https://a11fath3r.github.io/22pages</id>
 
     <entry>
-        <title>directory addition request</title>
+        <title>request</title>
         <author>
             <name>A11father</name>
         </author>
-        <link href="https://a11fath3r.github.io/22pages/feedback.html"/>
-        <id>https://a11fath3r.github.io/22pages/feedback.html</id>
+        <link href="https://a11fath3r.github.io/22pages/request.html"/>
+        <id>https://a11fath3r.github.io/22pages/request.html</id>
 
-        <updated>2024-01-28T19:05:22-08:00</updated>
+        <updated>2024-01-29T14:30:30-08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <form action="https://getform.io/f/8f04a49a-d2b3-49d6-8a77-bdf344e76853" method="POST">
-<p class="align-left"><input type="text"> name</p>
+<p>&gt; <a href="https://a11fath3r.github.io/22pages/marcus-aurelius.html" target="_blank" rel="noopener noreferrer">art page example</a></p>
+<p><input type="text"> name</p>
 <p><input name="email" type="email"> contact email</p>
 <p><input name="about" type="text"> about you</p>
 <p><input name="country" type="text"> country</p>
@@ -80,11 +81,12 @@
             <category term="b&amp;w"/>
             <category term="artist"/>
 
-        <updated>2024-01-22T13:14:26-08:00</updated>
+        <updated>2024-01-29T14:31:52-08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <p><em>something something about artist blurb</em></p>
+                <p class="msg--info msg--highlight msg ">This is an example of a bio snapshot to welcome yourself to other creatives... Hello! My name is Marcus, and I've been a cover artist for 6+ years. I've worked on runs for Image and Boom! comics, and... <em>etc.</em></p>
+<h4><span style="color: #3598db;">ART</span></h4>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://a11fath3r.github.io/22pages/media/posts/1/gallery/ma_art.png" data-size="280x224"><img loading="lazy" src="https://a11fath3r.github.io/22pages/media/posts/1/gallery/ma_art-thumbnail.png" alt="" width="280" height="224"></a></figure>
 <figure class="gallery__item"><a href="https://a11fath3r.github.io/22pages/media/posts/1/gallery/d33_colour.jpg" data-size="1852x1884"><img loading="lazy" src="https://a11fath3r.github.io/22pages/media/posts/1/gallery/d33_colour-thumbnail.jpg" alt="" width="768" height="781"></a></figure>
@@ -92,35 +94,50 @@
 <figure class="gallery__item"><a href="https://a11fath3r.github.io/22pages/media/posts/1/gallery/22colour.png" data-size="800x800"><img loading="lazy" src="https://a11fath3r.github.io/22pages/media/posts/1/gallery/22colour-thumbnail.png" alt="" width="768" height="768"></a></figure>
 <figure class="gallery__item"><a href="https://a11fath3r.github.io/22pages/media/posts/1/gallery/22joker.jpg" data-size="1052x1600"><img loading="lazy" src="https://a11fath3r.github.io/22pages/media/posts/1/gallery/22joker-thumbnail.jpg" alt="" width="768" height="1168"></a></figure>
 </div></div>
-<table style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); width: 100.035%;" border="1">
+<p class="msg msg--info"><strong>FULL PORTFOLIO:</strong></p>
+<table class=" align-center" style="border-collapse: collapse; width: 100%; height: 239.391px; border-style: hidden;" border="0">
 <tbody>
-<tr>
-<td class="align-left" style="width: 50.054%;"><strong>accepting work</strong></td>
-<td class="align-right" style="width: 49.9114%;"><strong>YES</strong></td>
+<tr style="height: 91.3125px;">
+<td class="align-left" style="width: 29.3447%; border-style: hidden; border-width: 0px; height: 91.3125px;">
+<h4><span style="color: #3598db;"><strong>INFO</strong></span></h4>
+</td>
+<td style="width: 20.7977%; border-style: hidden; border-width: 0px; height: 91.3125px;"><strong> </strong></td>
+<td style="width: 25.0712%; border-style: hidden; border-width: 0px; height: 91.3125px;"> </td>
+<td class="align-right" style="width: 24.7863%; border-style: hidden; border-width: 0px; height: 91.3125px;">
+<h4><span style="color: #3598db;">CONTACT</span></h4>
+</td>
 </tr>
-<tr>
-<td class="align-left" style="width: 50.054%;"><strong>rate per page</strong></td>
-<td class="align-right" style="width: 49.9114%;"><strong>$50 US</strong></td>
+<tr style="height: 49.3594px; border-style: hidden;">
+<td class="align-left" style="width: 29.3447%; height: 49.3594px; border-style: hidden; border-width: 0px;"><strong>available for work:</strong></td>
+<td class="align-right" style="width: 20.7977%; height: 49.3594px; border-style: hidden; border-width: 0px;"><strong>yes</strong></td>
+<td class="align-left" style="width: 25.0712%; height: 49.3594px; border-style: hidden; border-width: 0px;"> </td>
+<td class="align-right" style="width: 24.7863%; height: 49.3594px; border-style: hidden; border-width: 0px;"><a href="#" target="_blank" rel="noopener noreferrer">Email</a></td>
 </tr>
-<tr>
-<td style="width: 50.054%;"><strong>portfolio</strong></td>
-<td class="align-right" style="width: 49.9114%;">external site name hyperlinked</td>
+<tr style="height: 49.3594px;">
+<td class="align-left" style="width: 29.3447%; border-style: hidden; border-width: 0px; height: 49.3594px;"><strong>rate per page:</strong></td>
+<td class="align-right" style="width: 20.7977%; border-style: hidden; border-width: 0px; height: 49.3594px;"><strong>$50</strong></td>
+<td style="width: 25.0712%; border-style: hidden; border-width: 0px; height: 49.3594px;"> </td>
+<td class="align-right" style="width: 24.7863%; border-style: hidden; border-width: 0px; height: 49.3594px;"><a href="#" target="_blank" rel="noopener noreferrer">Discord</a></td>
+</tr>
+<tr style="height: 49.3594px;">
+<td class="align-left" style="width: 29.3447%; border-style: hidden; border-width: 0px; height: 49.3594px;"><strong>country:</strong></td>
+<td class="align-right" style="width: 20.7977%; border-style: hidden; border-width: 0px; height: 49.3594px;"><strong>uk</strong></td>
+<td style="width: 25.0712%; border-style: hidden; border-width: 0px; height: 49.3594px;"> </td>
+<td class="align-right" style="width: 24.7863%; border-style: hidden; border-width: 0px; height: 49.3594px;"><a href="#" target="_blank" rel="noopener noreferrer">reddit</a></td>
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table class=" align-center" style="border-collapse: collapse; width: 100%; height: 99.391px; border-style: hidden;" border="0">
 <tbody>
-<tr>
-<td class="align-center" style="width: 50.0713%;">social button</td>
-<td class="align-center" style="width: 49.9287%;">social button</td>
+<tr style="height: 99.391px; border-style: hidden;">
+<td style="width: 25.4986%; height: 99.391px; border-style: hidden; border-width: 0px;"> </td>
+<td style="width: 24.6439%; height: 99.391px; border-style: hidden; border-width: 0px;"><figure class="post__image"><img loading="lazy"  src="https://a11fath3r.github.io/22pages/media/posts/1/instagram-logo-png-transparent-backgroundpng.png" alt="" width="84" height="70" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://a11fath3r.github.io/22pages/media/posts/1/responsive/instagram-logo-png-transparent-backgroundpng-xs.png 300w ,https://a11fath3r.github.io/22pages/media/posts/1/responsive/instagram-logo-png-transparent-backgroundpng-sm.png 480w ,https://a11fath3r.github.io/22pages/media/posts/1/responsive/instagram-logo-png-transparent-backgroundpng-md.png 768w ,https://a11fath3r.github.io/22pages/media/posts/1/responsive/instagram-logo-png-transparent-backgroundpng-lg.png 1024w"></figure></td>
+<td style="width: 25.0712%; height: 99.391px; border-style: hidden; border-width: 0px;"><figure class="post__image"><img loading="lazy"  src="https://a11fath3r.github.io/22pages/media/posts/1/transparent-twitter-logo-with-white-outline_2369903-491271769.png" alt="" width="69" height="55" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://a11fath3r.github.io/22pages/media/posts/1/responsive/transparent-twitter-logo-with-white-outline_2369903-491271769-xs.png 300w ,https://a11fath3r.github.io/22pages/media/posts/1/responsive/transparent-twitter-logo-with-white-outline_2369903-491271769-sm.png 480w ,https://a11fath3r.github.io/22pages/media/posts/1/responsive/transparent-twitter-logo-with-white-outline_2369903-491271769-md.png 768w ,https://a11fath3r.github.io/22pages/media/posts/1/responsive/transparent-twitter-logo-with-white-outline_2369903-491271769-lg.png 1024w"></figure></td>
+<td style="width: 24.7863%; height: 99.391px; border-style: hidden; border-width: 0px;"> </td>
 </tr>
 </tbody>
 </table>
-<ul>
-<li>add contact ability + captcha</li>
-<li>include verified?</li>
-<li>country?</li>
-</ul>
+<p> </p>
             ]]>
         </content>
     </entry>
